@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-04-28 05:41:00 GMT
+title: "Link post"
+---
+<http://dilbert.com/blog/entry/thatlost4gphone/>
+
+> All it really needed was Wally.

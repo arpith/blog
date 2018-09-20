@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-05-24 18:02:57 GMT
+title: "Link post"
+---
+<http://general-metrics.com/Safari/>
+
+> A good browser should be able to reproduce itself.

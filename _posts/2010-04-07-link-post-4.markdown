@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2010-04-07 14:26:03 GMT
+title: "Link post"
+---
+<http://www.boston.com/bostonglobe/ideas/articles/2010/04/04/shyness/>
+
+> Nonetheless, there is much to celebrate in shyness. It has cunning, to begin with.
+
+Brings Woody Allen to mind.

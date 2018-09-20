@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2010-04-22 12:37:00 GMT
+title: "Link post"
+---
+<http://opengraphprotocol.com>
+
+Not sure how [useful](http://developers.facebook.com/docs/opengraph) this is but still, interesting.

@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2014-09-04 19:00:17 GMT
+title: "Quote post"
+---
+<a href="http://www.amazon.in/gp/product/0099541246/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0099541246&linkCode=as2&tag=arpstum-21">Richard Pevear, in his introduction to Boris Pasternak's Doctor Zhivago</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0099541246" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+<blockquote>Pasternak delights in the pathetic fallacy: in his world so-called inanimate nature constantly participates in the action. On the other hand, there is no historical or psychological analysis in his narrative, no commentary on the causes of events or the motives of characters. This gives a feeling of chaos, random movement, impulsiveness, chance encounters, sudden disruptions to the action of the novel. The trains and trams keep breaking down. But owing to breakdowns, surprising new aspects of life appear. The Russia of three revolutions, two world wars, civil war, and political terror is portrayed in living detail, but from unexpected angles, and with no abstract ideological synthesis. Pasternak portrays happening as it happens, which is what Tolstoy set out to do. But in <em>Doctor Zhivago</em> the seeming chaos of events will suddenly be pierced through by forces of a higher order, coming from a greater depth in time – folkloric, cultural, ultimately religious – which are also really present, which reassert their continuing presence, in the most ordinary everyday life.</blockquote>

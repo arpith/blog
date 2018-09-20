@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2011-01-04 15:35:08 GMT
+title: "Link post"
+---
+<http://drawthisdress.tumblr.com/>
+
+> Interpreting photos of outfits into drawings of outfits.
