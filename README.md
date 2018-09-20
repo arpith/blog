@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Arpith Siromoney
+twitter.com/arpith
+github.com/arpith
 
-You can use the [editor on GitHub](https://github.com/arpith/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arpith/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Posts
+- August 1, 2018 [Confidant v1 REST API routes](https://arpith.co/confidant-v1-rest-api-routes)
+- July 20, 2018 [Getting a service's credentials from Confidant](https://arpith.co/getting-a-services-credentials-from-confidant)
+- July 14, 2018 [How Confidant uses KMS for authentication](https://arpith.co/how-confidant-uses-kms-for-authentication)
+- February 24, 2018 [Type checking Ruby with minimal effort](https://arpith.co/type-checking-ruby-with-minimal-effort)
+- October 19, 2017 [Stable sorting](https://arpith.co/stable-sorting)
+- April 7, 2017 [San Francisco on MacOS](https://arpith.co/san-francisco-on-macos)
+- August 17, 2016 [Raft: Appending entries](https://arpith.co/raft-appending-entries)
+- August 10, 2016 [Writing your first Jepsen test](https://arpith.co/writing-your-first-jepsen-test)
+- August 9, 2016 [Rendering text in Rust with piston_window](https://arpith.co/rendering-text-in-rust-with-piston-window)
+- August 5, 2016 [Parsing HTML in Rust](https://arpith.co/parsing-html-in-rust)
+- August 1, 2016 [Raft: Electing a leader](https://arpith.co/raft-electing-a-leader)
+- July 14, 2016 [Resetting a ticker in Go](https://arpith.co/resetting-a-ticker-in-go)
+- July 14, 2016 [Reading a Go map safely](https://arpith.co/reading-a-go-map-safely)
+- July 9, 2016 [Go: Sharing memory by communicating in practice](https://arpith.co/go-sharing-memory-by-communicating-in-practice)
+- July 9, 2016 [Adventures with mmap](https://arpith.co/adventures-with-mmap)
+- July 4, 2016 [Setting up an EC2 server with Redis and Node.js](https://arpith.co/setting-up-an-ec2-server-with-redis-and-node-js)
