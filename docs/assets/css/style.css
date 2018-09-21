@@ -150,7 +150,7 @@ img[width] {
 ul {
   list-style-type: none;
 }
-ul, ol {
+ol {
   padding-left: 2em!important;
 }
 blockquote, figcaption {
