@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-04-29 08:10:52 GMT
-title: "Link post"
----
-<http://shreevatsa.wordpress.com/2010/04/28/eoe/>
-
-> WordPress screws up formatting; so ignore and see [here](http://mathforum.org/~josh/ogdenash.html).

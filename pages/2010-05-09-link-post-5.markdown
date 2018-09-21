@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-05-09 06:43:52 GMT
-title: "Link post"
----
-<http://www.flickr.com/photos/8953623@N06/4583207492/>
-
-Good idea.

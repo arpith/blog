@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-05-13 11:58:00 GMT
-title: "Link post"
----
-<http://html5readiness.com/>
-
-Infographic in HTML5, with data from [whencaniuse.com](http://whencaniuse.com).

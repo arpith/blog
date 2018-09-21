@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-06-10 12:04:52 GMT
-title: "Link post"
----
-<http://www.sciencetoymaker.org/hangGlider/index.htm>
-
-Sounds like fun.

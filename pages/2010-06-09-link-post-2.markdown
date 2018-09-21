@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-06-09 13:31:46 GMT
-title: "Link post"
----
-<http://www.lettersofnote.com/2010/05/come-on-george-loosen-up-swing-man.html>
-
-On the latter's success and angst.

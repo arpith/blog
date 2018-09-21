@@ -1,8 +1,0 @@
----
-layout: post
-date: 2010-05-24 18:01:04 GMT
-title: "Link post"
----
-<http://www.google.com/pacman/>
-
-Fun.
