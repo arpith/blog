@@ -1,8 +1,5 @@
-## Arpith Siromoney
-twitter.com/arpith
-github.com/arpith
+## [Arpith Siromoney](github.com/arpith) [💬](twitter.com/arpith)
 
-### Posts
 - [Confidant v1 REST API routes](/confidant-v1-rest-api-routes)
 - [Getting a service's credentials from Confidant](/getting-a-services-credentials-from-confidant)
 - [How Confidant uses KMS for authentication](/how-confidant-uses-kms-for-authentication)
