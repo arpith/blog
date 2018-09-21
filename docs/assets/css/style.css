@@ -62,8 +62,6 @@ big {
 a {
   text-decoration: none!important;
   color: #157DEC!important;
-  border-bottom: thin solid!important;
-  border-bottom-color: #157DEC!important;
 }
 header {
   width: 36em;
@@ -148,6 +146,9 @@ img {
 }
 img[width] {
   width: auto !important;
+}
+ul {
+  list-style-type: none;
 }
 ul, ol {
   padding-left: 2em!important;
