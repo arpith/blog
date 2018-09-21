@@ -14,6 +14,8 @@ tags:
 - constellational
 title: "Drafts, Unpublished Edits, and Posts"
 ---
+# Drafts, Unpublished Edits, and Posts
+
 <h2>How Constellational supports them all</h2>
 
 <p>I’m building an <a href="http://github.com/constellational/iOS">app</a> called <a href="http://github.com/constellational">Constellational</a> that lets you publish your notes online. This is the story of the how a post goes from draft to published to edited to updated.</p>

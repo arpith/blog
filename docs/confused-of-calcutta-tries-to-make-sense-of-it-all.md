@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-06 17:46:11 GMT
-title: "Link post"
+title: "Confused of Calcutta Tries to Make Sense of It All"
 ---
 # [Confused of Calcutta Tries to Make Sense of It All](http://confusedofcalcutta.com/2010/04/05/the-digital-economy-bill-thinking-further-about-copyright/)
 

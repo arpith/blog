@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-17 07:13:00 GMT
 title: "My first Go program"
 ---
+# My first Go program
+
 First off: [installing Go](http://golang.org/doc/install) looks complicated, but blindly following the instructions is easy! No pets will be harmed (I hope!)
 
 I want to convert hex to [base64](http://en.wikipedia.org/wiki/Base64). [Gobyexample.com](https://gobyexample.com/) explains how to [grab command line arguments](https://gobyexample.com/command-line-arguments). The first thing I noticed was that you can create a variable and assign it a value using `:=`

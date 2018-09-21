@@ -14,6 +14,8 @@ tags:
 - node-fetch
 title: "Isomorphic React in Three Simple Steps"
 ---
+# Isomorphic React in Three Simple Steps
+
 An isomorphic react app has three basic parts:
 
 1. You generate a html file using [`react-dom/server`](https://www.npmjs.com/package/react-dom)’s [`reactDOM.renderToString()`](https://facebook.github.io/react/docs/top-level-api.html#reactdomserver.rendertostring)

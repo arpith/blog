@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-20 06:46:00 GMT
-title: "Quote post"
+title: "[Grantland.com - The Plunge](http://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)"
 ---
 [Grantland.com - The Plunge](http://grantland.com/features/the-plunge-shavarsh-karapetyan-heroic-rescue-armenia-trolleybus-ussr-history-finswimming/)
 

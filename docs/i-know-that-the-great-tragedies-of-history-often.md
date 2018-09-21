@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-02-14 09:46:02 GMT
-title: "Quote post"
+title: "Albert Camus - Resistance, Rebellion, and Death"
 ---
 <a href="http://www.amazon.in/gp/product/0679764011/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0679764011&linkCode=as2&tag=arpstum-21">Albert Camus - Resistance, Rebellion, and Death</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0679764011" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

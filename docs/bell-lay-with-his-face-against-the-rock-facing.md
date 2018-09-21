@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-01 19:00:15 GMT
-title: "Quote post"
+title: "James Jones - The Thin Red Line"
 ---
 <a href="http://www.amazon.in/gp/product/0385324081/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0385324081&linkCode=as2&tag=arpstum-21">James Jones - The Thin Red Line</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0385324081" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-06 17:09:54 GMT
-title: "Link post"
+title: "Playing Chess With Kubrick"
 ---
 # [Playing Chess With Kubrick](http://blogs.nybooks.com/post/498370620/playing-chess-with-kubrick)
 

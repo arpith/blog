@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-21 12:51:00 GMT
 title: "Variables, Scopes and fiddling with Strings in Go"
 ---
+# Variables, Scopes and fiddling with Strings in Go
+
 <p>Some more fun with strings! I&#8217;m finally weaning <a href="http://arpith.co/post/102944903612/stumbling-through-go">myself off</a> <a href="http://golang.org/pkg/fmt">Sscanf</a> and onto <a href="http://golang.org/pkg/encoding/hex/"><code>encoding/hex</code></a>, so this time I&#8217;ll decode the original string with</p>
 
 <pre><code>    h := os.Args[1]

@@ -13,6 +13,8 @@ tags:
 - trying again
 title: "When Communication Fails"
 ---
+# When Communication Fails
+
 ##Telling a server you’ve optimistically created a post
 
 Last week, I talked about how using [optimistic UI improves my app’s performance](http://arpith.co/post/133536963842/speed-up-your-app-with-optimistic-ui), and how [deletes can be retried](http://arpith.co/post/133664864052/optimism-in-ui-can-it-go-too-far) until the [server](http://github.com/constellational/api) responds with a success. Today’s story is about ensuring that the server state reflects the posts that were created or edited optimistically on the [app](http://github.com/constellational/iOS).

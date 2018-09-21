@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-06 17:52:43 GMT
-title: "Link post"
+title: "Alex Payne Waffles Here"
 ---
 # [Alex Payne Waffles Here](http://al3x.net/2010/04/05/ipad-openness-moderates.html)
 

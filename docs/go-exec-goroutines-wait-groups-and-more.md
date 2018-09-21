@@ -3,6 +3,8 @@ layout: post
 date: 2015-02-13 06:20:00 GMT
 title: "Go: exec, goroutines, wait groups and more"
 ---
+# Go: exec, goroutines, wait groups and more
+
 I wrote a [small program in go](https://github.com/arpith/slides2video/blob/master/main.go) to [export slides to video](https://github.com/arpith/slides2video/) using [ffmpeg](https://www.ffmpeg.org). It [creates a video for each slide](http://trac.ffmpeg.org/wiki/Create%20a%20video%20slideshow%20from%20images) then [concatenates them](http://trac.ffmpeg.org/wiki/Concatenate) and finally [adds the audio](http://stackoverflow.com/questions/11779490/ffmpeg-how-to-add-new-audio-not-mixing-in-video).
 
 For the first step, I didn't need to create the (single image) videos one after the other, so I used [goroutines](https://gobyexample.com/goroutines) to run them in separate threads.

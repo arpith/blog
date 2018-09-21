@@ -12,6 +12,8 @@ tags:
 - javascript
 title: "You say username, I say Username"
 ---
+# You say username, I say Username
+
 When a user signs up for the [app I’m building](https://github.com/constellational), one of the things to be checked is that the username is available. This is done by [creating a file](https://github.com/constellational/api/blob/c9909b985dc6f9bee156d3983fe04c0892b44a4a/signup/index.js) (on S3) every time a user signs up, and [checking if this file exists](https://github.com/constellational/iOS/blob/c166624349d28ca1124fc5e9289931b188e17b20/stores/SettingStore.js) before proceeding with the signup process.
 
     checkUsername(username) {

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-02-13 14:31:54 GMT
-title: "Quote post"
+title: "Elizabeth Kolbert interviewed on the Washington Post by Brad Plumer"
 ---
 <a href="http://washingtonpost.com/blogs/wonkblog/wp/2014/02/11/there-have-been-five-mass-extinctions-in-earths-history-now-were-facing-a-sixth/">Elizabeth Kolbert interviewed on the Washington Post by Brad Plumer</a>
 

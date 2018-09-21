@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-24 06:40:25 GMT
 title: "Hamming it in Go"
 ---
+# Hamming it in Go
+
 The [bitwise AND operation](http://en.wikipedia.org/wiki/Bitwise_operation#AND) is a convenient way to count the number of ones in a byte: 
 
         count := 0

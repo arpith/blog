@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-26 04:15:48 GMT
 title: "Rearranging text in Go"
 ---
+# Rearranging text in Go
+
 <p>I wanted to split a string into blocks, and then look at the first bytes of each block, then the second bytes, and so on. I ended up using a two dimensional slice of bytes and filled it by running through the original text once:</p>
 
 <pre><code>

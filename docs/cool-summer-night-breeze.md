@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-05 18:01:00 GMT
-title: "Link post"
+title: "Cool Summer Night Breeze"
 ---
 # [Cool Summer Night Breeze](http://www.todayandtomorrow.net/2010/03/03/new-overpainted-photographs/)
 

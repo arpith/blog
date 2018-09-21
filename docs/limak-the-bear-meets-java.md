@@ -8,6 +8,8 @@ tags:
 - competition
 title: "Limak the Bear Meets Java"
 ---
+# Limak the Bear Meets Java
+
 Today’s Topcoder Single Round Match (673) featured Limak the Bear in these questions:
 
 > Bear Limak has recently learned about musical notes. He then listened to a song and noticed that some notes appeared less often than others. In fact, some notes were so rare that they appeared in the song only once!

@@ -1,9 +1,8 @@
 ---
 layout: post
 date: 2010-04-06 18:35:00 GMT
-title: "Link post"
+title: "Birds Through the Window"
 ---
-
 # [Birds Through the Window](http://www.bearskinrug.co.uk/_work/twc_01/)
 
 One morning, over breakfast, I spotted a crow dressed in many shades of grey through the window.  He was surrounded by the tiny white flowers and the grey-green leaves of the tree, and below his wreath you could see the branch, not quite brown, not quite grey, almost mirroring his angular pose, almost rivaling his sharp features.  It was one of those things I wished I could paint.

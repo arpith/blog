@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-26 04:47:34 GMT
 title: "Go's strings.Contains is useful"
 ---
+# Go's strings.Contains is useful
+
 I wanted to check if a block of bytes repeated itself in a slice so I converted it to a string and looked at each block, checking if it was contained in the slice leading up to it or the slice beyond it.
 
         blocksize := 16

@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-18 07:38:00 GMT
 title: "Stumbling through Go"
 ---
+# Stumbling through Go
+
 Today I'm [XOR](http://en.wikipedia.org/wiki/Exclusive_or)'ing byte arrays; fortunately, [this blog post](http://blog.golang.org/strings) seems to indicate that plain strings will do: 
 
 > Strings are built from bytes so indexing them yields bytes, not characters. A string might not even hold characters. In fact, the definition of "character" is ambiguous and it would be a mistake to try to resolve the ambiguity by defining that strings are made of characters.

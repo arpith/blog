@@ -3,6 +3,8 @@ layout: post
 date: 2015-02-24 08:58:00 GMT
 title: "Go: floats"
 ---
+# Go: floats
+
 My [Go script to create a video from slides and audio](https://github.com/arpith/slides2video) now uses timestamps (in milliseconds) instead of slide durations. 
 
     var imgDuration float64

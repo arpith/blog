@@ -11,6 +11,8 @@ tags:
 - classes
 title: "Babel-node, ES6, and how I finally used promises"
 ---
+# Babel-node, ES6, and how I finally used promises
+
 <p>I&rsquo;ve been working on an <a href='https://github.com/runway7/satellite'>SSE server</a> and wanted to test how many connections it could accept. The <a href="https://github.com/aslakhellesoy/eventsource-node">eventsource library</a> seemed like a simple way to create SSE clients, so I wrote a small <a href="https://github.com/arpith/sse-test">nodejs app</a> to create a bunch of connections to a channel, send a message and print &lsquo;WORKS&rsquo; if they all got it. You can run it by cloning the repo (<code>$ git clone https://github.com/arpith/sse-test</code>) and then, in the directory, running <code>$ <a href="https://babeljs.io/docs/usage/cli/#babel-node">babel-node</a> main.js</code>  </p>
 
 <pre>

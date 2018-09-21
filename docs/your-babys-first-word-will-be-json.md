@@ -17,6 +17,8 @@ tags:
 - email signin
 title: "Your Baby’s First Word Will Be JSON"
 ---
+# Your Baby’s First Word Will Be JSON
+
 I ended [yesterday’s post](http://arpith.co/post/133201714402/using-a-link-to-sign-in-to-your-app) (on using a link to sign in to an app) by promising to try out iOS 9’s [Universal Links](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html#//apple_ref/doc/uid/TP40016308-CH12-SW1). To do this, you need to serve a JSON file at yourDomain.com/apple-app-site-association — this is a quick way to do that.
 
 There are two steps to this:

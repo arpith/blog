@@ -15,6 +15,8 @@ tags:
 - javascript
 title: "Everybody stand back, I know Regular Expressions!"
 ---
+# Everybody stand back, I know Regular Expressions!
+
 ##(Spoiler alert: I don’t)
 
 A few days ago, I talked about [adding a full screen text input](http://arpith.co/post/133875065157/react-native-full-screen-textinputs) to my [app](github.com/constellational), to make the experience of writing notes a little more pleasant. Today I’m adding a word count to my app, based on [this answer](http://stackoverflow.com/a/27418136) on [Stack Overflow](http://stackoverflow.com/):

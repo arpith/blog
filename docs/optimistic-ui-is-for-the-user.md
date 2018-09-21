@@ -11,6 +11,8 @@ tags:
 - constellational
 title: "Optimistic UI is For the User"
 ---
+# Optimistic UI is For the User
+
 In yesterday’s post on [speeding up your app using optimistic UI](http://arpith.co/post/133536963842/speed-up-your-app-with-optimistic-ui), I described how you can improve the perceived performance of your app when it comes to deleting posts. Today I’ll be talking about the next step, speeding up the creating and editing of posts.
 Once again, the code we’re interested in is the [flux](https://facebook.github.io/flux/) [store](https://facebook.github.io/flux/docs/overview.html#stores). Let’s look at editing posts to begin with, because that is conceptually simpler. [The original code](https://github.com/constellational/iOS/blob/74b6c9dbd05bfcc0b0fc8480c50d0df87ce4b7b0/stores/PostStore.js) looked like:
 

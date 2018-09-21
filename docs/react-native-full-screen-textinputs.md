@@ -13,6 +13,8 @@ tags:
 - ui
 title: "React Native: Full Screen TextInputs"
 ---
+# React Native: Full Screen TextInputs
+
 The [app I’m building](http://github.com/constellational/iOS), [Constellational](http://github.com/constellational), lets you [post your notes online](http://arpith.co/post/133803823587/san-francisco-in-react-native) — and a key element is a full screen, distraction-free zone for you to type your notes. [This is the code](https://github.com/constellational/iOS/blob/a0147ffdf7e1498fedf19764d1a5106aaa43fcdd/components/EditPage.js) we’re interested in:
 
     render() {

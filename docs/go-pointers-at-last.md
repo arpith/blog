@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-26 06:56:00 GMT
 title: "Go: Pointers at last"
 ---
+# Go: Pointers at last
+
 I've finally had to use [pointers](https://gobyexample.com/pointers) because I'm [parsing command line flags](https://gobyexample.com/command-line-flags)
 
         blockPtr := flag.String("block", "YELLOW SUBMARINE", "the block to be padded")

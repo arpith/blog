@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-08-29 05:48:59 GMT
-title: "Quote post"
+title: "Aleksandr Solzhenitsyn - One Day in the Life of Ivan Denisovich"
 ---
 <a href="http://www.amazon.in/gp/product/0141184744/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0141184744&linkCode=as2&tag=arpstum-21">Aleksandr Solzhenitsyn - One Day in the Life of Ivan Denisovich</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0141184744" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

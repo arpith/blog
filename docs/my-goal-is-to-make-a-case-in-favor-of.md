@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-08-29 06:09:24 GMT
-title: "Quote post"
+title: "Adam Kotsko - Awkwardness."
 ---
 <a href="http://www.amazon.in/gp/product/1846943914/ref=as_li_tl?ie=UTF8&amp;camp=3626&amp;creative=24822&amp;creativeASIN=1846943914&amp;linkCode=as2&amp;tag=arpstum-21">Adam Kotsko - Awkwardness.</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&amp;l=as2&amp;o=31&amp;a=1846943914" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 

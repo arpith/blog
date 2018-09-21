@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-07 06:09:46 GMT
-title: "Quote post"
+title: "Albert Camus - The Myth of Sisyphus"
 ---
 <a href="http://www.amazon.in/gp/product/0141023996/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0141023996&linkCode=as2&tag=arpstum-21">Albert Camus - The Myth of Sisyphus</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0141023996" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

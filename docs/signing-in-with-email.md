@@ -17,6 +17,8 @@ tags:
 - code
 title: "Signing In With Email"
 ---
+# Signing In With Email
+
 I’m building a [small app](http://github.com/constellational) to post stuff online—just text, for now. You’ve probably heard of (and used) Medium’s email sign in, where they send you a link that lets you sign into the app (or the browser). This is the way I did it.
 
 The code [is on GitHub](https://github.com/constellational/api/blob/master/signin/index.js), and to begin with, let’s take a look at this function:

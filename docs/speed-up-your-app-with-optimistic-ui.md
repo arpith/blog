@@ -11,6 +11,8 @@ tags:
 - constellational
 title: "Speed Up Your App With Optimistic UI"
 ---
+# Speed Up Your App With Optimistic UI
+
 [My app’s](http://github.com/constellational) [flux](https://facebook.github.io/flux/) [store](https://facebook.github.io/flux/docs/overview.html#stores) [used to do this](https://github.com/constellational/iOS/blob/e8a6969da02fd78915cbc3d572144f56ab678559/stores/PostStore.js) when deleting a post:
 
     function deletePost(post) {

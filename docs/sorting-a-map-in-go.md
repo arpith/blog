@@ -3,6 +3,8 @@ layout: post
 date: 2014-11-24 12:15:00 GMT
 title: "Sorting a map in Go"
 ---
+# Sorting a map in Go
+
 I wanted to sort a bunch of guesses I made (I had scores for each of them). There doesn't seem to be an easy way to retrieve the keys for a map in Go,
 so I ended up adding them to a slice while I was creating the map.
 

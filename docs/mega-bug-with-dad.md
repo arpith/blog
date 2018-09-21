@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-06 17:03:00 GMT
-title: "Link post"
+title: "Mega-Bug with Dad"
 ---
 # [Mega-Bug with Dad](http://www.dearmitt.com/index02.php3?selDate=04.02.2010)
 

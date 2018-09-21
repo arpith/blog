@@ -11,6 +11,8 @@ tags:
 - text editing
 title: "San Francisco in React Native"
 ---
+# San Francisco in React Native
+
 The [app I’m building](http://github.com/constellational) lets you post notes online, so a major part of it is the text editor. Today I learnt that to [use San Francisco](https://github.com/facebook/react-native/issues/1611) (the default font on iOS 9) in a [React Native](http://facebook.github.io/react-native/) component, you need to [set fontFamily to ‘System’](https://github.com/constellational/iOS/issues/48).
 
     var styles = StyleSheet.create({

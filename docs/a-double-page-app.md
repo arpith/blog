@@ -15,6 +15,8 @@ tags:
 - apps
 title: "A Double Page App"
 ---
+# A Double Page App
+
 So far we’ve seen [how to use a webpage to sign into an app](http://arpith.co/post/133201714402/using-a-link-to-sign-in-to-your-app) and how we can use [Universal Links](https://developer.apple.com/library/prerelease/ios/documentation/General/Conceptual/AppSearch/UniversalLinks.html#//apple_ref/doc/uid/TP40016308-CH12-SW1) to skip [the step of opening the webpage](http://arpith.co/post/133275553207/your-babys-first-word-will-be-json) — and open the app directly from the [sign in email](http://arpith.co/post/133135590507/signing-in-with-email). It makes sense to support both methods of signing in, so today we’ll use [koa-static](https://github.com/koajs/static) to serve both the [JSON file](https://github.com/constellational/web/blob/7d09b79def0ab6ce5c61b5656f33ef1545c6287c/public/apple-app-site-association) as well as the [HTML file that contains the link to open the app](https://github.com/constellational/web/blob/7d09b79def0ab6ce5c61b5656f33ef1545c6287c/public/index.html).
 
 [Our code](https://github.com/constellational/web/blob/7d09b79def0ab6ce5c61b5656f33ef1545c6287c/index.js) now looks like:

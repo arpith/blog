@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2010-04-06 17:22:39 GMT
-title: "Link post"
+title: "iBooks and Private APIs"
 ---
 # [iBooks and Private APIs](http://www.marco.org/500743718)
 
