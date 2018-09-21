@@ -1,4 +1,3 @@
-# [Arpith Siromoney](https://github.com/arpith) [💬](https://twitter.com/arpith)
 
 - [Confidant v1 REST API routes](/confidant-v1-rest-api-routes)
 - [Getting a service's credentials from Confidant](/getting-a-services-credentials-from-confidant)
