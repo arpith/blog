@@ -71,6 +71,11 @@ header {
   top: 0;
   background: #fff;
 }
+footer {
+  font-weight: 300!important;
+  color: #4A525A!important;
+  font-size: 0.8em!important;
+}
 #logo img {
   height: 1em!important;
 }
