@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-03 19:00:55 GMT
-title: "Fyodor Dostoevsky - The Idiot"
+title: "The prince's question (The Idiot)"
 ---
 <a href="http://www.amazon.in/gp/product/0375702245/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0375702245&linkCode=as2&tag=arpstum-21">Fyodor Dostoevsky - The Idiot</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0375702245" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-01 19:00:15 GMT
-title: "The Collected Poems of Wallace Stevens"
+title: "The Old Lutheran Bells at Home - Wallace Stevens"
 ---
 <a href="http://www.amazon.in/gp/product/0679726691/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=0679726691&linkCode=as2&tag=arpstum-21">The Collected Poems of Wallace Stevens</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=0679726691" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 

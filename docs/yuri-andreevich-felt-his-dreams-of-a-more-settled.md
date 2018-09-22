@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-09-04 19:00:17 GMT
-title: "Boris Pasternak - Doctor Zhivago"
+title: "Yuri Andreevich's longing (Doctor Zhivago)"
 ---
 <a href="http://www.amazon.in/gp/product/0099541246/ref=as_li_tl?ie=UTF8&amp;camp=3626&amp;creative=24822&amp;creativeASIN=0099541246&amp;linkCode=as2&amp;tag=arpstum-21">Boris Pasternak - Doctor Zhivago</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&amp;l=as2&amp;o=31&amp;a=0099541246" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 

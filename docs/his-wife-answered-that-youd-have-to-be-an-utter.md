@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-08-29 05:34:03 GMT
-title: "Aleksandr Solzhenitsyn - One Day in the Life of Ivan Denisovich"
+title: "Ivan Denisovich's carpets"
 ---
 <a href="http://www.amazon.in/gp/product/0141184744/ref=as_li_tl?ie=UTF8&amp;camp=3626&amp;creative=24822&amp;creativeASIN=0141184744&amp;linkCode=as2&amp;tag=arpstum-21">Aleksandr Solzhenitsyn - One Day in the Life of Ivan Denisovich</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&amp;l=as2&amp;o=31&amp;a=0141184744" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 

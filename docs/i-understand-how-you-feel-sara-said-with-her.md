@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2014-08-31 19:00:09 GMT
-title: "Haruki Murakami - Colorless Tsukuru Tazaki and His Years of Pilgrimage"
+title: "Tsukuru Tazaki's years of pilgrimage"
 ---
 <a href="http://www.amazon.in/gp/product/1846558336/ref=as_li_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=1846558336&linkCode=as2&tag=arpstum-21">Haruki Murakami - Colorless Tsukuru Tazaki and His Years of Pilgrimage</a><img src="http://ir-in.amazon-adsystem.com/e/ir?t=arpstum-21&l=as2&o=31&a=1846558336" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
