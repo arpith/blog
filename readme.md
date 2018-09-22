@@ -11,3 +11,5 @@ The post list / index is generated with the following liquid code:
 {% for post in posts %}
 - [{{post.title}}]({{post.url}}){% endfor %}
 ```
+
+This lets me store the posts without a date in the filename.
