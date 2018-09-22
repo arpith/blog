@@ -1,3 +1,6 @@
+{% for post in site.posts %}
+- [{{post.title}}]({{post.url}})
+{% endfor %}
 
 - [Confidant v1 REST API routes](/confidant-v1-rest-api-routes)
 - [Getting a service's credentials from Confidant](/getting-a-services-credentials-from-confidant)
