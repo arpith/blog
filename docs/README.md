@@ -1,4 +1,4 @@
-{% for post in site.posts %}
+{% for post in site.pages %}
 - [{{post.title}}]({{post.url}})
 {% endfor %}
 
