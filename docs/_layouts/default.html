@@ -10,7 +10,7 @@
   <body>
 	<h1 id="arpith-siromoney-"><a href="https://github.com/arpith">Arpith Siromoney</a> <a href="https://twitter.com/arpith">💬</a></h1>
     {{ content }}
-	{% assign sortedPosts = site.post | sort: 'date' %}
+	{% assign sortedPosts = site.posts | sort: 'date' %}
 	<ul>
 	{% for post in sortedPosts %}
   	  <li>
