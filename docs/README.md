@@ -1,4 +1,5 @@
-{% for post in site.pages %}
+{% assign posts = site.pages | sort: 'date' %}
+{% for post in posts %}
 - [{{post.title}}]({{post.url}})
 {% endfor %}
 
