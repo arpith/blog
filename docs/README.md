@@ -84,7 +84,7 @@
 - [Richard Pevear on Boris Pasternak's Doctor Zhivago](/pasternak-delights-in-the-pathetic-fallacy-in-his)
 - [Yuri Andreevich's longing (Doctor Zhivago)](/yuri-andreevich-felt-his-dreams-of-a-more-settled)
 - [Galuzina's anguish (Doctor Zhivago)](/at-the-seventh-hour-by-church-time-and-by-common)
-- [Susan Sontag on Illness as a Metaphor](/my-aim-was-to-alleviate-unnecessary-suffering)
+- [Susan Sontag on Illness as Metaphor](/my-aim-was-to-alleviate-unnecessary-suffering)
 - [Susan Sontag on the kingdom of illness](/illness-is-the-night-side-of-life-a-more-onerous)
 - [The general on the prince (The Idiot)](/prince-nastasya-filippovna-suddenly-addressed)
 - [The prince's question (The Idiot)](/once-he-went-into-the-mountains-on-a-clear-sunny)
