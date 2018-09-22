@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2017-10-20 12:11:00 ET
+title: "Stable Sorting"
+---
 
 # Stable Sorting
 

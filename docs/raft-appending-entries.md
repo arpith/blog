@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-08-17 13:16:00 ET
+title: "Raft: Appending Entries"
+---
 
 # Raft: Appending Entries
 

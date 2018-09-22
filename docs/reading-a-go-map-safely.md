@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-07-14 13:33:00 ET
+title: "Reading a Go map safely"
+---
 
 # Reading a Go map safely
 

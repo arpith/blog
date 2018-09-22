@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-07-09 23:22:00 ET
+title: "Go: Sharing memory by communicating in practice"
+---
 
 # Go: Sharing Memory By Communicating In Practice
 

@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-02-24 20:24:00 ET
+title: "Type checking Ruby with minimal effort"
+---
 
 # Type checking Ruby with minimal effort
 

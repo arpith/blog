@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-07-15 20:50:00 ET
+title: "How Confidant uses KMS for authentication"
+---
 
 # How Confidant uses KMS for authentication
 

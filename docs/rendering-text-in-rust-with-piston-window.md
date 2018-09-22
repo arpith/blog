@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-08-09 10:51:00 ET
+title: "Rendering text in Rust with Piston-Window"
+---
 
 # Rendering Text in Rust with Piston-Window
 

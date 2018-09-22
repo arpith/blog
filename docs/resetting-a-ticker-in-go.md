@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-07-14 13:40:00 ET
+title: "Resetting a ticker in Go"
+---
 
 # Resetting a ticker in Go
 

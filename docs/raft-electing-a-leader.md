@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-08-01 17:49:00 ET
+title: "Raft: Electing a leader"
+---
 
 # Raft: Electing a Leader
 

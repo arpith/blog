@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-07-04 12:28:00 ET
+title: "Setting up an EC2 server with Redis and Node.js"
+---
 
 # Setting up an EC2 server with Redis and Node.js
 

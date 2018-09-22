@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-08-05 15:05:00 ET
+title: "Parsing HTML in Rust"
+---
 
 # Parsing HTML in Rust
 

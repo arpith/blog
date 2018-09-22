@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-07-21 8:08:00 ET
+title: "Getting a Service's Credentials From Confidant"
+---  
 
 # Getting a service’s credentials from Confidant
 

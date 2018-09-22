@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-07-09 17:50:00 ET
+title: "Adventures with mmap"
+---
 
 # Adventures with mmap
 

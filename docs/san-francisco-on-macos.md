@@ -1,4 +1,8 @@
-
+---
+layout: post
+date: 2017-04-07 13:20:00 ET
+title: "San Francisco on MacOS"
+---
 # San Francisco on MacOS
 
 Inspired by Booking.com and Medium, I decided to make the switch to San Francisco for feedreader.co, my open source rss feed reader.

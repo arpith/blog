@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2016-08-10 15:11:00 ET
+title: "Writing your first Jepsen test"
+---
 
 # Writing your first Jepsen test
 
