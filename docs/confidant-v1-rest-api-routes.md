@@ -1,3 +1,8 @@
+---
+layout: post
+date: 2018-08-01 10:55:00 ET
+title: "Confidant v1 REST API Routes"
+---
 
 # Confidant v1 REST API Routes
 
