@@ -43,3 +43,5 @@ I'm using `index.md` for the index page and `README.md` for the repository readm
 Finally, I set up my domain name to point to GitHub pages' addresses, and added the domain name in the repository's settings page. This created a file in the repository called `CNAME` which contains the domain name.
 
 And that's it! I'm pretty happy with the result!
+
+Thanks to [Alicja Raszkowska](https://trueskawka.github.io/)!
