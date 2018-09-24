@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2018-07-14 13:33:00 ET
+date: 2016-07-14 13:33:00 ET
 title: "Reading a Go map safely"
 ---
 
