@@ -1,1 +1,7 @@
-permalink: /:title
+defaults:
+  -
+    scope:
+      path: "posts"
+      type: "pages"
+    values:
+      permalink: "/:basename"
