@@ -29,11 +29,13 @@ defaults:
 ## Index page
 My homepage is just a list of posts. This is a throwback to my undergrad days (before I switched to Tumblr). The post list is generated with the following Liquid code. I'm using pages instead of posts because I don't want to keep timestamps in my filenames. This means I need to sort `site.pages` by date and reverse it.
 
+{% raw %}
 ```
 {% assign posts = site.pages | sort: 'date' | reverse %}
 {% for post in posts %}
 - [{{post.title}}]({{post.url}}){% endfor %}
 ```
+{% endraw %}
 
 ## Misc
 I'm using `index.md` for the index page and `README.md` for the repository readme.
