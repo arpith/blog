@@ -44,4 +44,4 @@ Finally, I set up my domain name to point to GitHub pages' addresses, and added 
 
 And that's it! I'm pretty happy with the result!
 
-Thanks to [Alicja Raszkowska](https://trueskawka.github.io/)!
+Thanks to [Alicja Raszkowska](https://trueskawka.github.io/) and [Lindsey Kuper](http://composition.al)!
