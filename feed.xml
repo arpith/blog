@@ -12,14 +12,14 @@ layout: null
 {% assign posts = site.pages | sort: 'date' | reverse %}
 {% for post in posts %}
 <entry>
-  <title>{{post.title}}</title>
+  <title>{{post.title | escape}}</title>
   <link rel="alternate" type="text/html" href="https://arpith.co{{post.url}}" />
   <id>https://arpith.co{{post.url}}</id>
   <published>{{post.date}}</published>
   <updated>{{post.last_modified_at}}</updated>
   <author><name>Arpith Siromoney</name><uri>https://arpith.co</uri></author>
   <content type="html" xml:base="https://arpith.co/" xml:lang="en">
-		  <![CDATA[{{post.content}}]]>
+		  <![CDATA[{{post.content | escape | markdownify}}]]>
   </content>
 </entry>
 {% endfor %}
