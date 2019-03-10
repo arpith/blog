@@ -5,3 +5,5 @@ defaults:
       type: "pages"
     values:
       permalink: "/:basename"
+plugins:
+  - jekyll-feed
