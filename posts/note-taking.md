@@ -26,7 +26,7 @@ I usually start notes on ideas, one pagers and design docs by documenting why we
 
 
 ### Feedback
-For performance related feedback I usually start with what work was done and what the associated impact was. As an example, I maintain a high level brag documents to document the broader work I've been involved in over the last half. I usually frame this in the context of my goals for the half or longer term goals. I use this document to write my self review and share it with my manager and anyone who's providing me a peer review. 
+For performance related feedback I usually start with what work was done and what the associated impact was. As an example, I maintain a high level brag documents to document the broader work I've been involved in over the last half. I usually frame this in the context of my goals for the half or longer term goals. I use this document to write my self review and share it with my manager and anyone who's writing a peer review for me.
 
 When writing a peer review for a colleague I write down how we interacted and the impact they had on the project. I typically also ask them if they have a brag document so I can frame this in the context of their other work and goals.
 
