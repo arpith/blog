@@ -3,7 +3,6 @@ layout: post
 date: 2020-09-07 12:00:00 PT
 title: "My note taking process at work"
 ---
-
 # My note taking process at work
 I take a lot of notes at work! There are roughly three different goals - to figure out what I want to do on a particular day, to find out what happened a while back and to reflect on the week. Here's how I approach taking notes for these goals.
 
