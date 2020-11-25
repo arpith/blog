@@ -15,8 +15,8 @@ layout: none
 				<title>{{ post.title | xml_escape }}</title>
 				<description>{{ post.content | xml_escape }}</description>
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-				<link>{{ post.url | escape }}</link>
-				<guid isPermaLink="true">{{ post.url }}</guid>
+				<link>https://arpith.co{{ post.url | escape }}</link>
+				<guid isPermaLink="true">https://arpith.co{{ post.url }}</guid>
 		</item>
 		{% endfor %}
 	</channel>
