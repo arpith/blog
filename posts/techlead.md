@@ -9,7 +9,8 @@ This is one engineer’s experience in a very specific role in a very specific e
 
 ## ***Being*** an effective Tech Lead
 
-**Context:** Tech Lead for a group of three infrastructure teams (~20 ICs)
+### Context
+Tech Lead for a group of three infrastructure teams (~20 ICs)
 
 ### Sustainable work hours
 The tech lead for my broader org suggested that I “identify and work towards specific outcomes for my team, rather than processes.” This helped me understand that process that works for other people in the company does not necessarily help me achieve the outcomes my team needs.
@@ -27,11 +28,10 @@ A tech lead in a peer org encouraged me to “identify work that you[1] and your
 I’ve blocked off about three and a half hours of focus time on my calendar every day because the nature of my work results in my calendar filling up otherwise. Some people thrive in meetings (e.g., my manager), some have a higher tolerance for them (the tech lead for my org) and some people hate them and strive to minimize them (primarily engineers, some managers). I find doing more than three hours of meetings draining to the point where I’m unhappy and not effective. If a meeting is scheduled in my focus time I usually ask the organizer to move it (if they really need me), point them to someone else who can help them or in certain situations (e.g., it’s something that can’t wait and involves folks busier than me) I’ll attend it and move my focus time around.
 
 ## Being an ***effective*** Tech Lead
-
 ### Context
-- Top 1% in “ships” in the company (projects / work streams lead or contributed to) including saving $XX millions annually
-- Top 10% in org for code contributions this year
-- Lead two large, cross-cutting projects this year that impacted numerous teams
+1. Top 1% in “ships” in the company (projects / work streams lead or contributed to) including saving $XX millions annually
+2. Top 10% in org for code contributions this year
+3. Lead two large, cross-cutting projects this year that impacted numerous teams
 
 ### Ruthless prioritization
 A peer tech lead explained that “technical leadership for multiple teams requires careful prioritization of where your time is spent because you cannot be everywhere at once” and I put a lot of effort into getting good at figuring out the priority of work that comes my way.
@@ -57,14 +57,13 @@ Another gap I see in contrast with other engineers is how frequently I ask for h
 This approach extends to projects or meetings - I’m always happy to point folks to the right technical expert, only stepping in if there’s a disparity in power or a gap in technical alignment. A peer tech lead framed this as “technical leadership is a collection of opportunities; while there may not be someone on an individual team who can take on all of them, it’s quite likely that there are folks who are interested and capable of taking on some of them”[3].
 
 ## Being an effective ***Tech Lead***
-
 ### Context
 My surrounding org values the following (in priority order) in tech leads:
 
-- Technical impact especially via direct contributions
-- Building technical alignment within the org and across the company
-- Enabling impact by supporting projects (guidance, unblocking, direct technical contributions)
-- Spreading effectiveness through mentorship, addressing culture issues if necessary
+1. Technical impact especially via direct contributions
+2. Building technical alignment within the org and across the company
+3. Enabling impact by supporting projects (guidance, unblocking, direct technical contributions)
+4. Spreading effectiveness through mentorship, addressing culture issues if necessary
 
 ### Give help
 I try to pick up small pieces of work that will help folks on other teams wherever I can. On a purely selfish note, this makes it easier for them to prioritize helping me or my team when we need assistance. It’s easier for tech leads to value this work because even if it’s a temporary hit to productivity it helps the broader org and has far-reaching consequences for our teams. A technical leader in a sister org advised me to “make it really easy to cargo cult the right thing”[4]. By doing this every time someone needs my help I often never need to do that work again.
@@ -85,12 +84,10 @@ The tech lead for my broader org encouraged me to “be aligned with the manager
 
 
 ## Summary
-
 If you’ve made it this far, congratulations! I encourage you to work sustainably, recharge often and set and enforce clear boundaries. Ruthless prioritization, doing one thing at a time and getting as much help as you need are valuable tools in being effective. My perspective of being a tech lead involves helping others, growing an awareness of the broader organization and building an intuition for impact and progress. Stripe is hiring and I’m always happy to chat.
 
 
 ## Appendix
-
 0: I hate being woken up in the middle of the night, so any time a system or team wakes me up I make it my immediate priority to address the situation so that I’m never woken up for that issue again. This could look like addressing reliability issues with a system or improving the investment on that system by handing it off to a team that’s a better fit or providing the folks who woke me up with the tools they need to self-serve in the future.
 
 1: I love helping folks technically, building technical alignment especially between conflicting viewpoints, making sure various architectures and plans are heading in the same direction and getting to work on impactful, ambiguous and technically challenging problems.
