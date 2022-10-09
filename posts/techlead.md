@@ -33,6 +33,7 @@ I’ve blocked off about three and a half hours of focus time on my calendar eve
 2. Top 10% in org for code contributions this year
 3. Lead two large, cross-cutting projects this year that impacted numerous teams
 
+
 ### Ruthless prioritization
 A peer tech lead explained that “technical leadership for multiple teams requires careful prioritization of where your time is spent because you cannot be everywhere at once” and I put a lot of effort into getting good at figuring out the priority of work that comes my way.
 
@@ -64,6 +65,7 @@ My surrounding org values the following (in priority order) in tech leads:
 2. Building technical alignment within the org and across the company
 3. Enabling impact by supporting projects (guidance, unblocking, direct technical contributions)
 4. Spreading effectiveness through mentorship, addressing culture issues if necessary
+
 
 ### Give help
 I try to pick up small pieces of work that will help folks on other teams wherever I can. On a purely selfish note, this makes it easier for them to prioritize helping me or my team when we need assistance. It’s easier for tech leads to value this work because even if it’s a temporary hit to productivity it helps the broader org and has far-reaching consequences for our teams. A technical leader in a sister org advised me to “make it really easy to cargo cult the right thing”[4]. By doing this every time someone needs my help I often never need to do that work again.
