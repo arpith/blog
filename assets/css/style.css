@@ -11,7 +11,7 @@
   header { position: fixed; }
 }
 @media all and (min-device-width:1024px) {
-  body { font-size:21px!important; }
+  body { font-size:17px!important; }
   h1 { font-size: 28px!important; }
   header { position: fixed; }
 }
@@ -28,7 +28,7 @@ body {
   padding-top: 0;
   padding-bottom: 2em;
   margin: auto!important;
-  line-height: 1.6em!important;
+  line-height: 1.5em!important;
   font-family: -apple-system, BlinkMacSystemFont, 'Helvetica Neue', helvetica, sans!important;
   text-rendering: optimizeLegibility!important;
   color: #4A525A!important;
