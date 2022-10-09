@@ -86,7 +86,7 @@ The tech lead for my broader org encouraged me to “be aligned with the manager
 
 
 ## Summary
-If you’ve made it this far, congratulations! I encourage you to work sustainably, recharge often and set and enforce clear boundaries. Ruthless prioritization, doing one thing at a time and getting as much help as you need are valuable tools in being effective. My perspective of being a tech lead involves helping others, growing an awareness of the broader organization and building an intuition for impact and progress. Stripe is hiring and I’m always happy to chat.
+If you’ve made it this far, congratulations! I encourage you to work sustainably, recharge often and set and enforce clear boundaries. Ruthless prioritization, doing one thing at a time and getting as much help as you need are valuable tools in being effective. My perspective of being a tech lead involves helping others, growing an awareness of the broader organization and building an intuition for impact and progress. [Stripe is hiring](https://stripe.com/jobs/search) and I’m always happy to chat.
 
 
 ## Appendix
